@@ -1,0 +1,15 @@
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\Random_advanced.exe
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\Random_advanced.deps.json
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\Random_advanced.runtimeconfig.json
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\Random_advanced.dll
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\ref\Random_advanced.dll
+C:\Users\NoOne\Desktop\C#\Random_advanced\bin\Debug\net6.0\Random_advanced.pdb
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.AssemblyInfoInputs.cache
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.AssemblyInfo.cs
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.csproj.CoreCompileInputs.cache
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.dll
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\ref\Random_advanced.dll
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.pdb
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.genruntimeconfig.cache
+C:\Users\NoOne\Desktop\C#\Random_advanced\obj\Debug\net6.0\Random_advanced.csproj.AssemblyReference.cache
