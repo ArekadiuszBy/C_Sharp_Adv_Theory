@@ -1,0 +1,15 @@
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\Lambda_training.exe
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\Lambda_training.deps.json
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\Lambda_training.runtimeconfig.json
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\Lambda_training.dll
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\ref\Lambda_training.dll
+C:\Users\NoOne\Desktop\C#\Lambda_training\bin\Debug\net6.0\Lambda_training.pdb
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.csproj.AssemblyReference.cache
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.AssemblyInfoInputs.cache
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.AssemblyInfo.cs
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.csproj.CoreCompileInputs.cache
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.dll
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\ref\Lambda_training.dll
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.pdb
+C:\Users\NoOne\Desktop\C#\Lambda_training\obj\Debug\net6.0\Lambda_training.genruntimeconfig.cache
