@@ -1,0 +1,7 @@
+C:\Users\NoOne\Desktop\C#\Liskov_training\bin\Debug\Liskov_training.exe.config
+C:\Users\NoOne\Desktop\C#\Liskov_training\bin\Debug\Liskov_training.exe
+C:\Users\NoOne\Desktop\C#\Liskov_training\bin\Debug\Liskov_training.pdb
+C:\Users\NoOne\Desktop\C#\Liskov_training\obj\Debug\Liskov_training.csproj.AssemblyReference.cache
+C:\Users\NoOne\Desktop\C#\Liskov_training\obj\Debug\Liskov_training.csproj.CoreCompileInputs.cache
+C:\Users\NoOne\Desktop\C#\Liskov_training\obj\Debug\Liskov_training.exe
+C:\Users\NoOne\Desktop\C#\Liskov_training\obj\Debug\Liskov_training.pdb
