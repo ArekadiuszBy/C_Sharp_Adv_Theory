@@ -1,0 +1,7 @@
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\bin\Debug\Kurs_PGankiewicz_cz-2.exe.config
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\bin\Debug\Kurs_PGankiewicz_cz-2.exe
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\bin\Debug\Kurs_PGankiewicz_cz-2.pdb
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\obj\Debug\Kurs_PGankiewicz_cz-2.csproj.AssemblyReference.cache
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\obj\Debug\Kurs_PGankiewicz_cz-2.csproj.CoreCompileInputs.cache
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\obj\Debug\Kurs_PGankiewicz_cz-2.exe
+C:\Users\NoOne\Desktop\C#\Kurs_PGankiewicz_cz-2\obj\Debug\Kurs_PGankiewicz_cz-2.pdb
