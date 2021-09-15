@@ -1,7 +1,0 @@
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\bin\Debug\Kurs_Piotr_Gankiewicz.exe.config
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\bin\Debug\Kurs_Piotr_Gankiewicz.exe
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\bin\Debug\Kurs_Piotr_Gankiewicz.pdb
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\obj\Debug\Kurs_Piotr_Gankiewicz.csproj.AssemblyReference.cache
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\obj\Debug\Kurs_Piotr_Gankiewicz.csproj.CoreCompileInputs.cache
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\obj\Debug\Kurs_Piotr_Gankiewicz.exe
-C:\Users\NoOne\Desktop\C#\Kurs_Piotr_Gankiewicz\obj\Debug\Kurs_Piotr_Gankiewicz.pdb
